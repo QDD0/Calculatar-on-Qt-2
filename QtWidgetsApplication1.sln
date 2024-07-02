@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtWidgetsApplication1", "QtWidgetsApplication1.vcxproj", "{D86491BB-50AC-47C1-BA1F-B2E977036FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86491BB-50AC-47C1-BA1F-B2E977036FAD}.Debug|x64.ActiveCfg = Debug|x64
+		{D86491BB-50AC-47C1-BA1F-B2E977036FAD}.Debug|x64.Build.0 = Debug|x64
+		{D86491BB-50AC-47C1-BA1F-B2E977036FAD}.Release|x64.ActiveCfg = Release|x64
+		{D86491BB-50AC-47C1-BA1F-B2E977036FAD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3BBF22A-81EF-4F46-828C-A70C985DE1AB}
+	EndGlobalSection
+EndGlobal
